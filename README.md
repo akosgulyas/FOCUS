@@ -1,5 +1,5 @@
 # FOCUS Alpha
-### Powered by Scratch (PenguinMod)
+### Web based game engine powered by Scratch (PenguinMod)
 
 ### Features: 
 > - Asset Manager (Supports many file types)
