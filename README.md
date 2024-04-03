@@ -1,4 +1,2 @@
-# FOCUS
-- Based on Scratch (PenguinMod)
-- More Advanced
-- New Features
+# FOCUS Engine Files
+### Files for the engine
